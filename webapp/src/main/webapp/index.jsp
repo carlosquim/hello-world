@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> this should be sent to dh automatically</h1>
+   <h1> this should be sent to dh automatically take 1</h1>
 
   
 </form>
