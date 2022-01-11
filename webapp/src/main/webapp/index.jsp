@@ -32,6 +32,6 @@
   </div>
 
    <h1> this should be sent to dh automatically season 2</h1>
-
+   <h1> this should be deploy into k8s automatically season 1</h1>
   
 </form>
